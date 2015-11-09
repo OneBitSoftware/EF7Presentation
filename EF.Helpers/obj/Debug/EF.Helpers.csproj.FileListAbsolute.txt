@@ -1,0 +1,7 @@
+D:\Repos\Practice\EF7\EF.Helpers\bin\Debug\EF.Helpers.dll
+D:\Repos\Practice\EF7\EF.Helpers\bin\Debug\EF.Helpers.pdb
+D:\Repos\Practice\EF7\EF.Helpers\bin\Debug\EF.Models.dll
+D:\Repos\Practice\EF7\EF.Helpers\bin\Debug\EF.Models.pdb
+D:\Repos\Practice\EF7\EF.Helpers\obj\Debug\EF.Helpers.csprojResolveAssemblyReference.cache
+D:\Repos\Practice\EF7\EF.Helpers\obj\Debug\EF.Helpers.dll
+D:\Repos\Practice\EF7\EF.Helpers\obj\Debug\EF.Helpers.pdb

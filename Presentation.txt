@@ -1,0 +1,17 @@
+  0. Intro
+  1. Performance
+  2. Shadow Properties
+  3. Alternate keys
+  4. Logging
+  5. Mess around
+   
+EntityFramework.SqlServer
+EntityFramework.SQLite
+EntityFramework.InMemory
+EntityFramework.SqlServerCompact40
+EntityFramework.SqlServerCompact35
+EntityFramework.Npgsql 
+  
+https://github.com/aspnet/EntityFramework
+http://blogs.msdn.com/b/adonet/archive/2015/10/15/ef7-beta-8-available.aspx
+https://msdn.microsoft.com/en-us/magazine/dn890367.aspx

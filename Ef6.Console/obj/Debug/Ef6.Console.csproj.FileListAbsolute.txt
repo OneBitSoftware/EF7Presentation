@@ -1,0 +1,14 @@
+D:\Repos\Practice\EF7\Ef6.Console\bin\Debug\Ef6.Console.exe.config
+D:\Repos\Practice\EF7\Ef6.Console\bin\Debug\Ef6.Console.exe
+D:\Repos\Practice\EF7\Ef6.Console\bin\Debug\Ef6.Console.pdb
+D:\Repos\Practice\EF7\Ef6.Console\bin\Debug\EF.Helpers.dll
+D:\Repos\Practice\EF7\Ef6.Console\bin\Debug\EF.Models.dll
+D:\Repos\Practice\EF7\Ef6.Console\bin\Debug\EntityFramework.dll
+D:\Repos\Practice\EF7\Ef6.Console\bin\Debug\EntityFramework.SqlServer.dll
+D:\Repos\Practice\EF7\Ef6.Console\bin\Debug\EF.Helpers.pdb
+D:\Repos\Practice\EF7\Ef6.Console\bin\Debug\EF.Models.pdb
+D:\Repos\Practice\EF7\Ef6.Console\bin\Debug\EntityFramework.xml
+D:\Repos\Practice\EF7\Ef6.Console\bin\Debug\EntityFramework.SqlServer.xml
+D:\Repos\Practice\EF7\Ef6.Console\obj\Debug\Ef6.Console.csprojResolveAssemblyReference.cache
+D:\Repos\Practice\EF7\Ef6.Console\obj\Debug\Ef6.Console.exe
+D:\Repos\Practice\EF7\Ef6.Console\obj\Debug\Ef6.Console.pdb

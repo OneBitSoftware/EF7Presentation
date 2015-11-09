@@ -1,0 +1,4 @@
+D:\Repos\Practice\EF7\EF.Models\bin\Debug\EF.Models.dll
+D:\Repos\Practice\EF7\EF.Models\bin\Debug\EF.Models.pdb
+D:\Repos\Practice\EF7\EF.Models\obj\Debug\EF.Models.dll
+D:\Repos\Practice\EF7\EF.Models\obj\Debug\EF.Models.pdb
